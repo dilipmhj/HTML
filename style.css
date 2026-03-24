@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    letter-spacing: 1rem;
+}
+#title{
+    color: teal;
+}
+
+.heading{
+    color: lightblue;
+}
+
+h3{
+    color: red;/*Basic Colors*/
+    color: rgb(255 , 0, 0); /*Red, Green, Blue: 0-255*/
+    color: #f00; /*0-9, A-F*/
+    color: rgba(255, 0, 0, 1); /*a-alpha(transparency): 0-1*/
+    background-color: rgb(250, 170, 170);
+}
